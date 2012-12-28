@@ -1,0 +1,9 @@
+0a6c20b24e208fbb266cea6196e84488 *DESCRIPTION
+bd753b9298d469345dfb3b3003b7ac28 *NAMESPACE
+5189ba9072df168b3ccd69c8daebc652 *R/pdist.R
+af82332d16ef7472411777b6162403b2 *R/setup.R
+fec7e4a8926ed7d3a8f4b305a8b49b3c *README.md
+dc5293bacb6454949d6a5d722e8c1430 *man/extract-methods.Rd
+333504818d3a0f9adf2a4ac4a39e8df5 *man/pdist-package.Rd
+14d11b2ffbb9e43d7dd785e10ccfc758 *man/pdist.Rd
+68aed4c8668622fee4c2c2982b1748bb *src/pdist.c
